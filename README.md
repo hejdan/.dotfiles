@@ -2,14 +2,14 @@
 
 ## i3
 
-### Autostart
-### Config
+#### Autostart
+#### Config
 ---
 ## dwm
-### Not yet added
+#### Not yet added
 ---
 ## rofi
-### Only config
+#### Only config
 ---
 ## polybar
-### Not yet added
+#### Not yet added
