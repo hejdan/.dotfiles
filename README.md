@@ -1,4 +1,4 @@
-# My dot files from my Ubuntu i3/dwm/rofi/polybar
+# My dotfiles from my Ubuntu i3/dwm/rofi/polybar
 
 ---
 
