@@ -5,11 +5,5 @@
 #### Autostart
 #### Config
 ---
-## dwm
-#### Not yet added
----
 ## rofi
 #### Only config
----
-## polybar
-#### Not yet added
